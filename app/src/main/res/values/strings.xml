@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="about_link"><a href='http://www.marco.org.mx'>http://www.marco.org.mx</a></string>
+</resources>
+
